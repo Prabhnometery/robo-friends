@@ -1,1 +1,1 @@
-$RoboFriends$
+Robofriends
